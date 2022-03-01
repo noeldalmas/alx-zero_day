@@ -1,1 +1,1 @@
-My first readme
+A duplicate refresh of git gym
